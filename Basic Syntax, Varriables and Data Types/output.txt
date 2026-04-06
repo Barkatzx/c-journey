@@ -1,19 +1,2 @@
-Integer Limits:
-Minimum int: -2147483648
-Maximum int: 2147483647
-Size of int: 4 bytes
-
-Float Limits:
-Minimum float: 1.175494e-38
-Maximum float: 3.402823e+38
-Size of float: 4 bytes
-
-Double Limits:
-Minimum double: 2.225074e-308
-Maximum double: 1.797693e+308
-Size of double: 8 bytes
-
-Char Limits:
-Minimum char: -128
-Maximum char: 127
-Size of char: 1 bytes
+hello
+hi
